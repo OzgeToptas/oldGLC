@@ -1,0 +1,27 @@
+{
+  "name": "get-london-services",
+  "version": "1.0.0",
+  "description": "app.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Route Software",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.12.1",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "get london services"
+  },
+  "keywords": [
+    "Get",
+    "London",
+    "Services"
+  ]
+}
